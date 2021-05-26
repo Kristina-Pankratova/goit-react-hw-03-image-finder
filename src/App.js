@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-
 import './App.css';
 import Searchbar from './components/Searchbar/Searchbar';
 import ImageGallery from './components/ImageGallery/ImageGallery';
